@@ -1,0 +1,10 @@
+﻿{
+    "options": {
+        "preserveComments": "some"
+    },
+    "js": {
+        "files": {
+            "wwwroot/lib/main.min.js": ["wwwroot/lib/jquery/jquery.min.js", "wwwroot/lib/underscore/underscore.js"]
+        }
+    }
+}

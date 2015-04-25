@@ -1,0 +1,10 @@
+﻿{
+    "options": {
+        "sourceMap": true
+    },
+    "dist": {
+        "files": {
+            "wwwroot/css/site.css": "wwwroot/css/site.scss"
+        }
+    }
+}
