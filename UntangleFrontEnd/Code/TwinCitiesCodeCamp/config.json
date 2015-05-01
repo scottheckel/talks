@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "TwinCitiesCodeCamp"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-TwinCitiesCodeCamp-f8ac4199-ce34-4ef2-b044-d94d657fefcb;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
