@@ -1,0 +1,10 @@
+﻿{
+  "sass": {
+    "files": [ "wwwroot/**/*.scss" ],
+    "tasks": [ "sass" ],
+    "options": {
+      "livereload": true,
+      "spawn": false
+    }
+  }
+}

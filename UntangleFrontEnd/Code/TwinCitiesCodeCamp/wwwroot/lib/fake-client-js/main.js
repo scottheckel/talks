@@ -1,0 +1,3 @@
+window.fake = (function() {
+	return {};
+})();
