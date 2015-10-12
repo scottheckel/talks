@@ -1,4 +1,9 @@
 #Talks
+## [Finding Your Way Through Beacons](https://github.com/scottheckel/talks/tree/master/FindingYourWayThroughBeacons)
+* MSSE BarCamp 6
+
+Ever wanted to add some proximity based enhancements to your mobile application? Beacons are special low energy Bluetooth hardware that allows an application to communicate between a transmitter and reciever. Because the two devices have to be physically close, you can bring in some location based enhancements to your mobile applications.
+
 ## [Untangle Your Front End Development with Visual Studio 2015](https://github.com/scottheckel/talks/tree/master/UntangleFrontEnd)
 * [Twin Cities Code Camp 18 - April 2015](http://www.twincitiescodecamp.com)
 
